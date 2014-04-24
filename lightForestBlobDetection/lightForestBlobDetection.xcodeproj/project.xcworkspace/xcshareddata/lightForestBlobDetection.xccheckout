@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>04B11851-AEC7-423A-BE70-5686A751F17D</string>
+	<key>IDESourceControlProjectName</key>
+	<string>lightForestBlobDetection</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>C4A942F6-7EA2-4231-A9EC-0B6BADE882DA</key>
+		<string>https://github.com/mariapaulasaba/LightForest.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>lightForestBlobDetection/lightForestBlobDetection.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>C4A942F6-7EA2-4231-A9EC-0B6BADE882DA</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/mariapaulasaba/LightForest.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>C4A942F6-7EA2-4231-A9EC-0B6BADE882DA</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>C4A942F6-7EA2-4231-A9EC-0B6BADE882DA</string>
+			<key>IDESourceControlWCCName</key>
+			<string>LightForest</string>
+		</dict>
+	</array>
+</dict>
+</plist>
